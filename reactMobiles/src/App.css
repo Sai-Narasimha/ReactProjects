@@ -1,0 +1,9 @@
+.listStyle{
+  list-style: square;
+  text-align: center;
+}
+.heading{
+  color : green;
+  background-color: black;
+  text-align: center;
+}
