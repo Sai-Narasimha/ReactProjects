@@ -1,0 +1,22 @@
+.App{
+  display: flex;
+  /* border:1px solid; */
+  width:90%;
+  margin: auto;
+  background-color: black;
+  color : white;
+  justify-content: space-around;
+}
+.linkList{
+  display: flex;
+  gap: 40px;
+  cursor: pointer;
+}
+.btn{
+  height:30px;
+  margin-top: 20px;
+  background-color:white;
+  color:green;
+  font-weight: bold;
+  
+}
