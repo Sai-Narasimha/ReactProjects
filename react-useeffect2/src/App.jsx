@@ -3,19 +3,32 @@
 import {Todos} from './todo'
 import './App.css'
 import {useEffect, useState} from 'react'
+// import {Counter} from "./components/counter"
 function App() {
-  // const [todos, setTodos] = useState([]);
-  
+  const[count, setCounter] = useState(10);
 
- 
-  
-  
-  return (
-    <div className="App">
-      <Todos/>
-    </div>
+    useEffect(()=>{
+        let id = setInterval(()=>{
+            setCounter((prevValue)=>{
+              if(prevValue <= 0){
+                clearInterval(id)
+                return 0;
+              }
+                return prevValue - 1
+            })
+        },100)
 
-  )
+        return()=>{
+
+          clearInterval(id)
+        }
+        
+    },[])
+    return (
+        <div>
+            <h3>count : {count}</h3>
+        </div>
+    )
 }
 
 export default App

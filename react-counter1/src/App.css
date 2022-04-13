@@ -1,0 +1,12 @@
+.red{
+  color : red
+}
+.green{
+  color : green
+}
+.counter{
+  border : 1px solid black;
+  width : fit-content;
+  background-color : black;
+  margin: auto;
+}
