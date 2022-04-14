@@ -1,0 +1,15 @@
+.redcolor {
+    color:red;
+}
+#out {
+    margin: 10px;
+    width:auto;
+}
+textarea{
+    width: 600px;
+    height: 300px;
+}
+img {
+    width:250px;
+    height:100px;
+}
