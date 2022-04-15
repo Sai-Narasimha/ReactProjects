@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
     <Counter/>
+      {/* <h3 className={{count}%2==0 ? "red":"green"}>Counter : {count}</h3> */}
     </div>
   )
 }

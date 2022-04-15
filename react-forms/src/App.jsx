@@ -8,11 +8,8 @@ const ref = useState(10)
 function App() {
   const [counter, setCounter] = useState(0);
   const conterRef = useRef(null);
-  useEffect(()=>{
-    
-
-    })
-  })
+  
+  
   return (
     <div className="App">
      <h3>counter : {counter}</h3>
