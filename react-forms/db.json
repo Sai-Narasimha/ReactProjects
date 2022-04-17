@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "nani",
+      "age": "12",
+      "salary": "23",
+      "address": "nani",
+      "department": "Management",
+      "maritalStatus": "",
+      "id": 1
+    },
+    {
+      "username": "mani",
+      "age": "60",
+      "salary": "30000",
+      "address": "anantapur",
+      "department": "Production",
+      "maritalStatus": "",
+      "id": 2
+    },
+    {
+      "username": "mani",
+      "age": "60",
+      "salary": "30000",
+      "address": "anantapur",
+      "department": "Production",
+      "maritalStatus": "",
+      "id": 3
+    },
+    {
+      "username": "nani",
+      "age": "22",
+      "salary": "20000",
+      "address": "nan",
+      "department": "HumanResources",
+      "maritalStatus": "",
+      "id": 4
+    },
+    {
+      "username": "mahi",
+      "age": "23",
+      "salary": "32000",
+      "address": "anantapur",
+      "department": "Production",
+      "maritalStatus": "",
+      "id": 5
+    }
+  ]
+}
