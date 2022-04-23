@@ -18,6 +18,8 @@ export const Navbar = ({children}) =>{
             {links.map((ele,i) =>(
                 <Link key = {i} to = {ele.to} >{ele.title}</Link>
                 ))}
+
+                <img src="https://cdn-icons-png.flaticon.com/128/3144/3144456.png" alt="" style = {{width:"25px",marginTop:"5px",height:"25px"}}/>
         </nav>
     )
 }

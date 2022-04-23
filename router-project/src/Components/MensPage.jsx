@@ -3,11 +3,14 @@ import axios from "axios";
 export const MensPage = ()=>{
     const [menData,setMenData] = useState([])
     useEffect(()=>{
-        axios.get("https://fakestoreapi.com/products").then(({data})=>{
+       getData()
+    },[])
+    const getData = ()=>{
+        axios.get("http://localhost:3004/mens").then(({data})=>{
             setMenData(data)
             console.log(data)
         })
-    },[])
+    }
     return(
         <div style={{
             width: '100%',
@@ -21,8 +24,9 @@ export const MensPage = ()=>{
                 <div style= {{
                    border : "1px solid black" 
                 }} key = {i} >
-                        <img src= {ele.image} style= {{width : "100%", height : "250px"}}/>
-                        <p>{ele.title}</p>
+                        <img src= {ele.img} style= {{width : "100%", height : "250px"}}/>
+                        <p>{ele.name}</p>
+                        <p>Price : {ele.saleprice}</p>
                     </div>
                 ))}
         </div>

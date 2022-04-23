@@ -1,0 +1,98 @@
+{
+    "womens" : [
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/4975137_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essentials Logo Fleece Hoodie",
+            "saleprice": "37.50"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/5164229_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Plus Size adidas Floral Graphic Hoodie",
+            "saleprice": "45.00"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/4935302_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essentials Logo Fleece Hoodie",
+            "saleprice": "33.75"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/5199404_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essential 3-Stripe Fleece Sweatshirt",
+            "saleprice": "37.50"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/4975137_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essentials Logo Fleece Hoodie",
+            "saleprice": "37.50"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/4975137_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essentials Logo Fleece Hoodie",
+            "saleprice": "37.50"
+        },
+        {
+            "img" : "https://media.kohlsimg.com/is/image/kohls/4975137_ALT?wid=240&hei=240&op_sharpen=1",
+            "name": "Women's adidas Essentials Logo Fleece Hoodie",
+            "saleprice": "37.50"
+        }
+    ],
+    "mens" : [
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/3583992_ALT?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 41.25,
+            "name": "Men's Nike Sportswear Club Fleece Pullover Hoodie"
+           
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/5178_Light_Blue?wid=245&hei=240&op_sharpen=1",
+            "saleprice": 69.5,
+            "name": "Men's Levi's® 505™ Regular Jeans"
+            
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/4972082_ALT?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 48.75,
+            "name": "Men's Tek Gear® Ultra Soft Fleece Hoodie"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/4341799_Black_Black?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 64.25,
+            "name": "Men's Tek Gear® Open Bottom Tricot Pant"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/4952247_ALT?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 31.25,
+            "name": "Men's Tek Gear® Ultra Soft Fleece Joggers"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/2483201_Steely_Blue?wid=245&hei=240&op_sharpen=1",
+            "saleprice": 25.0,
+            "name": "Men's Levi's® 559™ Stretch Relaxed Straight Fit Jeans"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/3930126_Khaki?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 70.75,
+            "name": "Men's Haggar® Cool Right® Performance Flex Classic-Fit Flat-Front Pants"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/3583242_ALT?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 65.05,
+            "name": "Men's Nike Sportswear Club Fleece Joggers"
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/3597690_Studio_White?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 62.0,
+            "name": "Men's Apt. 9® Premier Flex Slim-Fit Spread-Collar Dress Shirt"
+           
+        },
+        {
+            "img": "https://media.kohlsimg.com/is/image/kohls/5172_Stonewash?wid=240&hei=240&op_sharpen=1",
+            "saleprice": 33.33,
+            "name": "Men's Levi's® 550™ Relaxed-Fit Jeans"
+        }
+    ]
+}
+    
+
+    
+    
